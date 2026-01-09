@@ -1,0 +1,5 @@
+{
+  "name": "字体样式 AI 复刻器",
+  "description": "基于 AI 的字体样式迁移工具。上传具有设计感的文字图片作为参考，输入你的文字，即可生成风格相似的艺术字图片。",
+  "requestFramePermissions": []
+}
